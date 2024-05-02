@@ -1,7 +1,5 @@
 # Hi there 👋, I am Manoj! 😁
 
-I'm a Frontend Engineer with a deep passion for building engaging products and leading innovative teams. With a rich palette of technical skills and a keen eye for product development.
-
 ## 🚀 About Me
 
 - 🔭 Current Role: Frontend developer at [Skuad](https://www.skuad.io/), enhancing our platform that simplifies global hiring and payroll in 160+ countries with intuitive and compliant user interfaces.
