@@ -43,6 +43,7 @@
 ## My Absolute Favorites:
 
 💻   I love exploring new technologies and building cool stuff.
+
 📰   Reading, writing & watching Tech Stuff whenever possible.
 
 ## 🤝 Let's Connect
